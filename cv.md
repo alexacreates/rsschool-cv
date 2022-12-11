@@ -12,9 +12,10 @@ SEO & content-marketing specialist from Saint-Petersburg, Russia. I'm interested
 * Search engine optimization
 * Adobe Photoshop basics.
 * UX/UI basics.
-* English: B1-B2.
 
 ## Education:
 * Saint-Petersburg State University: sociology
-* Peter the Great St.Petersburg Polytechnic University:  professional retraining in IT (website creation for small buisness).
+* Peter the Great St.Petersburg Polytechnic University:  professional retraining in IT (website creation for small buisness)
 
+## English: 
+B1-B2
